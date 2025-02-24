@@ -5,7 +5,7 @@ $( document ).ready(function() {
 
         function(){
             $(this).css("background-color", "yellow");
-            $('https://www.youtube.com/watch?v=6_hl8AB7Uf0').click(function(){ MyFunction(); return false; });
+            $('https://www.youtube.com/watch?v=6_hl8AB7Uf0').click(function(){ MyFunction(); return false;
             // alert('never use alert');
             }
     ); 
