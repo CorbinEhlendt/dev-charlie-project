@@ -5,7 +5,7 @@ $( document ).ready(function() {
 
         function(){
             $(this).css("background-color", "yellow");
-            alert('never use alert');
+            // alert('never use alert');
             }
     ); 
     
